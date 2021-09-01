@@ -1,0 +1,12 @@
+body{
+    color: black;
+    background:linear-gradient(crimson 0%, #F86161 100%);
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#camera {
+     border: 2px dashed black; width: 350px; height: 300px; 
+    }
+    .name_objects, #result_object_name , #result_object_accuracy { color: yellow; }
